@@ -1,0 +1,4 @@
+express-assign
+mongodb+srv://mern-stack:<db_password>@cluster0.qcdoj63.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://express-assign:express-assign@cluster0.bvlvfgh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
